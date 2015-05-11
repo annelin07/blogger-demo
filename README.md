@@ -20,5 +20,5 @@ Time spent: `<18 hours>`
 
 ### Walkthrough 
 
-![Video Walkthrough](https://github.com/annelin07/blooger-demo/blob/master/bloggerWT.gif)
+![Video Walkthrough](https://github.com/annelin07/blogger-demo/blob/master/bloggerWT.gif)
 
